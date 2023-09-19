@@ -1,4 +1,4 @@
-![](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWh4NmpqcjQwd3Jkb2FwbXhvdXN3YW9hdG9xdnNvOGNucHFhc2x1bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MnIO9NK5QwKRvVvfE7/giphy.gif)
+![](https://i.giphy.com/media/ehlgs8kt6f52CD0Oez/giphy.webp)
 
 <!--
 **oguzhalit/oguzhalit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
