@@ -1,4 +1,4 @@
-![](https://wirechan.org/lain/src/1520205167457-1.gif)
+![](https://wirechan.org/lain/src/1520205167457-1.gif](https://media.giphy.com/media/VLzbEtlbwJUFljcRbf/giphy.gif)
 
 <!--
 **oguzhalit/oguzhalit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
